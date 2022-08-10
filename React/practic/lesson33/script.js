@@ -1,12 +1,12 @@
 "use strict";
 
-const arr = [14, 22, 23, 42, 15];
-arr.sort(comareNum);
-console.log(arr);
+// const arr = [14, 22, 23, 42, 15];
+// arr.sort(comareNum);
+// console.log(arr);
 
-function comareNum(a, b){
-    return a - b;
-}
+// function comareNum(a, b){
+//     return a - b;
+// }
 
 
 // arr.pop();
@@ -33,3 +33,5 @@ function comareNum(a, b){
 
 // prod.sort();
 // console.log(prod.join('; '));
+
+
