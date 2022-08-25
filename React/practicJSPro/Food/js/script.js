@@ -1,5 +1,3 @@
-'use strict';
-
 window.addEventListener('DOMContentLoaded', function() {
 
     // Tabs
@@ -43,7 +41,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     // Timer
 
-    const deadline = '2022-06-11';
+    const deadline = '2022-09-11';
 
     function getTimeRemaining(endtime) {
         const t = Date.parse(endtime) - Date.parse(new Date()),
